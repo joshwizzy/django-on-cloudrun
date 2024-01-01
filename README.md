@@ -1,11 +1,3 @@
----
-title: "How to deploy a Django app to Google Cloud Run using Terraform"
-date: 2024-01-01T03:34:16+03:00
-publishDate: 2024-01-01T03:34:16+03:00
-draft: false
-tags: ["GCP", "Cloud Run", "Python", "Terraform"]
----
-
 ## Introduction
 
 Deploying a Django application to a production environment may require you to perform the following tasks:
@@ -1021,5 +1013,3 @@ After the project is deleted you will see a message like this
 Deleted [https://cloudresourcemanager.googleapis.com/v1/projects/django-on-cloud-run-409909].
 ...
 ```
-
-[The Source code for this article can be found here.](https://github.com/joshwizzy/django-on-cloudrun)
